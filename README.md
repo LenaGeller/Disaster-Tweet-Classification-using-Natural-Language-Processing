@@ -2,7 +2,7 @@
 
 ## Live Demo
 This project includes a live demo deployed with **Gradio** on **Hugging Face Spaces**:  
-[Try it](https://lenageller-disaster-tweet-classifier.hf.space/?__theme=system&deep_link=qxmQj7QlGGI)
+## [Try it](https://lenageller-disaster-tweet-classifier.hf.space/?__theme=system&deep_link=qxmQj7QlGGI)
 
 ## Overview
 
