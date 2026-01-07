@@ -69,7 +69,7 @@ These results meet the primary objective of detecting the vast majority of real 
 ![CR](output/CR.png)
 
 The full implementation and experiments are documented in the
-[Notebook](disaster_tweet_classification.ipynb)
+[Notebook](FINAL_Project_Disaster.ipynb)
 
 ## Deployment
 
